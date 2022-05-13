@@ -1,0 +1,34 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.main-form > * {
+  margin: 5px 0px;
+}
+
+.main-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  font-size: 25px;
+}
+
+.text-area-prompt {
+  width: 50%;
+  height: 250px;
+  outline: none;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.submit-btn {
+  width: 10%;
+  padding: 12px;
+  cursor: pointer;
+}

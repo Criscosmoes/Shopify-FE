@@ -1,0 +1,9 @@
+.navigation-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  font-size: 30px;
+  color: white;
+  width: 100%;
+}
